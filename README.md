@@ -1,8 +1,9 @@
 # Problem statement
 
-In the software engineering field, different Excalidraw diagrams are used for various projects or features to document low-level technical designs. Often, requirement is to locate a specific component, such as "Service A," and determine which project or feature it belongs to.
+In software engineering, various draw.io diagrams are used across different projects or features to document low-level technical designs. Often, there is a need to find a specific component, such as "Service A," and identify the project or feature it is associated with.
 
-It would be highly beneficial to have a search capability that allows users to search for text across multiple Excalidraw files. This feature would improve efficiency in navigating and retrieving relevant technical design information.
+A search functionality that enables users to look for text across multiple draw.io files would be extremely useful.
+Here’s a shell script that might help enhance efficiency in navigating and retrieving relevant technical design information. Hope it proves helpful!
 
 # How to use the script
 1. collect all draw.io files in single directory(location)
