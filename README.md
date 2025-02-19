@@ -1,9 +1,9 @@
 # Problem statement
 
-In software engineering, various draw.io diagrams are used across different projects or features to document low-level technical designs. Often, there is a need to find a specific component, such as "Service A," and identify the project or feature it is associated with.
+In software engineering, companies often use various draw.io diagrams to document low-level technical designs for different projects or features. A common need is to find a specific component, like "Service A," and identify the project or feature it is associated with.  
 
-A search functionality that enables users to look for text across multiple draw.io files would be extremely useful.
-Here’s a shell script that might help enhance efficiency in navigating and retrieving relevant technical design information. Hope it proves helpful!
+A search functionality that enables users to look for text across multiple draw.io files would be highly valuable.  
+Take a look at this shell script—it might help enhance efficiency in navigating and retrieving relevant technical design information.🚀🚀
 
 # How to use the script
 1. collect all draw.io files in single directory(location)
